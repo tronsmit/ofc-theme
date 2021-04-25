@@ -1,0 +1,69 @@
+color:	#000	black
+    1. .wt-block-content .list_table > border
+    2. .optionbox
+    3. .wt-lifespans-summary
+color:	#999	mid-grey
+    1. .alpha_index
+color:	#fff	white
+    1. .wt-page-options-value > border
+    2. .wt-footer-cookies
+    3. .odometer
+color:	#00f	blue
+    1. .rtl_cal_day
+    2. .wt-new / pending edits
+color:	#337	navy-blue
+    1. .name1, .name2
+    2. .date
+color:	#369	dark-dull-blue
+    1. a /anchors
+color:	#f00	red
+		1. a:hover, a:hover .name1, a:hover .name2
+    2. .error
+    3. .largeError
+    4. .warning
+    5. .red
+    6. .wt-old / pending edits
+
+background-color:	#bce	paler-blue
+    1. .messagebox bg color
+background-color:	#d6e0ea	very-pale-blue
+    1. .selected-option bg color
+background-color:	#ddf	pale-blue
+    1. .wt-facts-table .wt-gender-M td
+background-color:	#fdd	light-red
+    1. .wt-facts-table .wt-gender-F td
+background-color:	#ff0	yellow
+    1. .search_hit bg (1) in branches
+background-color:	#ffc	pale-yellow
+    1. news_box:target, #gedcom_stats:target bg
+background-color:	#ccc	light-grey
+    1. .wt-facts-table th
+    2. .news_box
+    3. .topbottombar, .descriptionbox
+    4. .descriptionbox
+    5. .wt-page-options-label
+    6. .list_label, .list_label_wrap
+background-color:	#ddd	light1-grey
+    1. .wt-page-options-value
+    2. + border-top
+    3. .list_value, .list_value_wrap
+    4. .wt-facts-table td
+    5. .optionbox
+    6. table.faq
+background-color:	#eee	light2-grey
+    1. .wt-block
+    2. .wt-block-header
+    3. able.faq tr:nth-child(odd) td
+    4. .wt-family-navigator-dropdown
+background: #000;
+    1. .odometer > background
+background: #aaa;
+    1. .wt-footer-cookies
+    2. .journal_box > border
+background: #fff;
+    1. .fan_chart_menu bg
+    2. .wt-lifespans-summary bg
+background: #fafafa;
+    1. .wt-lifespans-individuals
+background: #ffffff;
+    1. .wt-lifespans-summary

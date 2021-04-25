@@ -1,0 +1,48 @@
+color:	#000	black
+    1. .wt-block-content .list_table > border
+    2. .optionbox
+color:	#fff	white
+    1. .wt-page-options-value > border
+    2. .wt-footer-cookies
+color:	#00f	blue
+    1. .rtl_cal_day
+color:	#337	navy-blue
+    1. .name1, .name2
+    2. .date
+color:	#369	dark-dull-blue
+    1. a /anchors
+
+background-color:	#bce	paler-blue
+    1. .messagebox bg color
+background-color:	#d6e0ea	very-pale-blue
+    1. .selected-option bg color
+background-color:	#ddf	pale-blue
+    1. .wt-facts-table .wt-gender-M td
+background-color:	#fdd	light-red
+    1. .wt-facts-table .wt-gender-F td
+background-color:	#ffc	pale-yellow
+    1. news_box:target, #gedcom_stats:target bg
+background-color:	#ccc	light-grey
+    1. .wt-facts-table th
+    2. .news_box
+    3. .topbottombar, .descriptionbox
+    4. .descriptionbox
+    5. .wt-page-options-label
+    6. .list_label, .list_label_wrap
+background-color:	#ddd	light1-grey
+    1. .wt-page-options-value
+    2. + border-top
+    3. .list_value, .list_value_wrap
+    4. .wt-facts-table td
+    5. .optionbox
+    6. table.faq
+background-color:	#eee	light2-grey
+    1. .wt-block
+    2. .wt-block-header
+    3. table.faq tr:nth-child(odd) td
+    4. .wt-family-navigator-dropdown
+background: #aaa;
+    1. .wt-footer-cookies
+    2. .journal_box > border
+background: #fff;
+    1. .fan_chart_menu bg
