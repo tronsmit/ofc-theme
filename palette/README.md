@@ -1,1 +1,3 @@
-Would be great to get to this ![Color Palette](./palette.png)
+Would be great to get to this palette
+
+![Color Palette](./palette.png)
